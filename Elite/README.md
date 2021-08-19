@@ -10,6 +10,13 @@ A website to manage all the entertainment memberships in one website along with 
 ![Capture6](https://user-images.githubusercontent.com/54259134/129855831-2eca235e-330c-488a-9035-e77335216937.PNG)
 ![Capture7](https://user-images.githubusercontent.com/54259134/129855936-aef62172-723c-4b79-9b60-55058048999d.PNG)
 
+![Capture2](https://user-images.githubusercontent.com/54259134/130063263-d3049ce1-5360-4ef2-b07f-69736c594c6b.PNG)
+![Capture3](https://user-images.githubusercontent.com/54259134/130063289-8d23011c-b81a-4c32-8488-ade5d7641b82.PNG)
+![Capture4](https://user-images.githubusercontent.com/54259134/130063302-35a99bd2-2d60-442b-8773-d5d5a66a49ae.PNG)
+
+![Capture](https://user-images.githubusercontent.com/54259134/130063349-4e1a7532-128b-4eaa-a538-f1ab22e844d5.PNG)
+![Capture1](https://user-images.githubusercontent.com/54259134/130063357-70db283b-1e93-489d-8c5e-8b080295e17b.PNG)
+
 
 colour code
 #fe3c00 or rgba(254,60,0,255)
